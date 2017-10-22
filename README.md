@@ -20,6 +20,6 @@
 
 * 走向开放的移动 Web——写在腾讯 X5 内核开放之时 > http://www.ifanr.com/456348
 
-##Blogs##
+## Blogs ##
 
 * Litten > http://litten.me/
