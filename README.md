@@ -4,9 +4,22 @@
 
 ## JavaScript ##
 
+* JavaScript 经典实例日常收集整理(常用经典) > http://www.jb51.net/article/81705.htm
+
 ## CSS ##
 
+* Wrting-Mode > http://www.zhangxinxu.com/wordpress/2016/04/css-writing-mode/
+* 现代 JavaScript 参考 > http://www.css88.com/archives/8244
+
 ## HTML ##
+
+
+## AutoTools ##
+
+* Gulp 自动化你的前端 >  http://www.sheyilin.com/2016/02/gulp_introduce/
+* 前端构建工具gulpjs的使用介绍及技巧 > http://www.cnblogs.com/2050/p/4198792.html
+* 前端涉及的所有知识体系 > https://segmentfault.com/a/1190000004070468?mType=Group
+* 常见HTML5功能检测 > http://caibaojian.com/detect-css3-support.html
 
 ## Browser ##
 
@@ -27,3 +40,6 @@
 ## Blogs ##
 
 * Litten > http://litten.me/
+* 前端路上 > http://refined-x.com/
+* Cherry's Blog > http://cherryblog.site/
+* SMOHAN > https://smohan.net/
