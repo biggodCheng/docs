@@ -43,3 +43,25 @@
 * 前端路上 > http://refined-x.com/
 * Cherry's Blog > http://cherryblog.site/
 * SMOHAN > https://smohan.net/
+* 梦魇小栈 > https://blog.ihoey.com/
+
+
+## 解决的问题 ##
+
+* PS复制图层组报“无法完成，程序错误” > http://jingyan.baidu.com/article/7082dc1c6ae66ce40a89bdc8.html
+
+
+## 效果参考 ##
+
+* canvas 实现的图片粒子组成 > http://tianyu.163.com/pve/lingxu/
+* 礼包动画 > http://jianglin.163.com/?from=nietop
+* H5页面借鉴（需求方常用）> https://cases.aotu.io/index.html
+
+
+## 工具 ##
+
+* 在线制作 loading GIF 图 > https://preloaders.net/
+* 进制转换计算器 > http://tool.oschina.net/hexconvert/
+* 二维码生成工具 > http://mobile.qq.com/qrcode?url=
+* matrix3D 在线生成 > https://peterned.home.xs4all.nl/matrices/
+* matrix2D 在线生成 > http://www.useragentman.com/matrix/
