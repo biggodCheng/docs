@@ -4,6 +4,7 @@
 
 ## JavaScript ##
 
+* JavaScript 基础40招 >  http://www.cnblogs.com/libin-1/p/5999197.html
 * JavaScript 经典实例日常收集整理(常用经典) > http://www.jb51.net/article/81705.htm
 
 ## CSS ##
@@ -13,6 +14,9 @@
 
 ## HTML ##
 
+## H5 ##
+
+* H5页面优化 > http://www.jianshu.com/p/6a45715ab204
 
 ## AutoTools ##
 
@@ -65,3 +69,4 @@
 * 二维码生成工具 > http://mobile.qq.com/qrcode?url=
 * matrix3D 在线生成 > https://peterned.home.xs4all.nl/matrices/
 * matrix2D 在线生成 > http://www.useragentman.com/matrix/
+* 前端体系大全 > http://www.javascript.fun
