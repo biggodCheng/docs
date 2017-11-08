@@ -6,6 +6,8 @@
 
 * JavaScript 基础40招 >  http://www.cnblogs.com/libin-1/p/5999197.html
 * JavaScript 经典实例日常收集整理(常用经典) > http://www.jb51.net/article/81705.htm
+* ECMAScript 标准参考文档 > http://yanhaijing.com/es5/#57
+* JavaScript备忘录 > http://www.zcfy.cc/article/the-best-front-end-hacking-cheatsheets-all-in-one-place-4520.html?t=new
 
 ## CSS ##
 
