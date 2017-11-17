@@ -77,4 +77,4 @@
 
 
 ## 调试 ##
-浏览器调试技巧 > /JavaScript/debugging.md
+浏览器调试技巧 > https://github.com/shenguotao2015/docs/tree/master/JavaScript/debugging
