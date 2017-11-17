@@ -74,3 +74,7 @@
 * matrix3D 在线生成 > https://peterned.home.xs4all.nl/matrices/
 * matrix2D 在线生成 > http://www.useragentman.com/matrix/
 * 前端体系大全 > http://www.javascript.fun
+
+
+## 调试 ##
+浏览器调试技巧 > /JavaScript/debugging.md
