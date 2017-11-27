@@ -9,11 +9,14 @@
 * ECMAScript 标准参考文档 > http://yanhaijing.com/es5/#57
 * JavaScript备忘录 > http://www.zcfy.cc/article/the-best-front-end-hacking-cheatsheets-all-in-one-place-4520.html?t=new
 * 现代 JavaScript 参考 > http://www.css88.com/archives/8244
+* https://juejin.im/entry/5a11770b51882531926e5075?utm_source=gold_browser_extension
+*
 
 ## CSS ##
 
 * Wrting-Mode > http://www.zhangxinxu.com/wordpress/2016/04/css-writing-mode/
 * 美化file与radio > http://www.haorooms.com/post/css_mh_ck_radio
+* 探究 CSS 解析原理 > http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/
 
 ## HTML ##
 
@@ -28,6 +31,7 @@
 * 前端构建工具gulpjs的使用介绍及技巧 > http://www.cnblogs.com/2050/p/4198792.html
 * 前端涉及的所有知识体系 > https://segmentfault.com/a/1190000004070468?mType=Group
 * 常见HTML5功能检测 > http://caibaojian.com/detect-css3-support.html
+* webpack 官方中文文档 > https://doc.webpack-china.org/concepts/
 
 ## Browser ##
 
@@ -37,6 +41,7 @@
 * 火狐的未来：既不会死，也不会活的很漂亮 > https://36kr.com/p/213915.html
 * 历史在重演：从KHTML到WebKit，再到Blink > https://36kr.com/p/202396.html
 * 主流浏览器内核介绍 > http://web.jobbole.com/84826/
+* 最精致的浏览器——Chrome科普贴 > https://juejin.im/post/5a123ce5f265da431f4aabc9
 
 ## Read ##
 
@@ -52,7 +57,7 @@
 * Cherry's Blog > http://cherryblog.site/
 * SMOHAN > https://smohan.net/
 * 梦魇小栈 > https://blog.ihoey.com/
-
+* Jartto > http://jartto.wang/
 
 ## 解决的问题 ##
 
