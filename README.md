@@ -10,7 +10,7 @@
 * JavaScript备忘录 > http://www.zcfy.cc/article/the-best-front-end-hacking-cheatsheets-all-in-one-place-4520.html?t=new
 * 现代 JavaScript 参考 > http://www.css88.com/archives/8244
 * https://juejin.im/entry/5a11770b51882531926e5075?utm_source=gold_browser_extension
-*
+* 前端动画大乱炖 > https://juejin.im/entry/5a1c32626fb9a0451b044633?utm_source=gold_browser_extension
 
 ## CSS ##
 
