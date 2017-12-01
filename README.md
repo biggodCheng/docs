@@ -2,6 +2,13 @@
 
 > 整理出自己利用碎片时间看到的一些好的文章与博客链接，同时也用于存放我自己编写的一些文章。
 
+## 基础 ##
+
+* Web图片资源的加载与渲染时机 > https://segmentfault.com/a/1190000010032501
+* 前端基础进阶系列 > http://www.jianshu.com/p/cd3fee40ef59
+* 你还要我怎样的JS > https://juejin.im/entry/5a11770b51882531926e5075?utm_source=gold_browser_extension
+
+
 ## JavaScript ##
 
 * JavaScript 基础40招 >  http://www.cnblogs.com/libin-1/p/5999197.html
@@ -9,14 +16,18 @@
 * ECMAScript 标准参考文档 > http://yanhaijing.com/es5/#57
 * JavaScript备忘录 > http://www.zcfy.cc/article/the-best-front-end-hacking-cheatsheets-all-in-one-place-4520.html?t=new
 * 现代 JavaScript 参考 > http://www.css88.com/archives/8244
-* https://juejin.im/entry/5a11770b51882531926e5075?utm_source=gold_browser_extension
+
 * 前端动画大乱炖 > https://juejin.im/entry/5a1c32626fb9a0451b044633?utm_source=gold_browser_extension
+
 
 ## CSS ##
 
 * Wrting-Mode > http://www.zhangxinxu.com/wordpress/2016/04/css-writing-mode/
 * 美化file与radio > http://www.haorooms.com/post/css_mh_ck_radio
 * 探究 CSS 解析原理 > http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/
+* CSS浮动简介以及实现 > https://juejin.im/entry/5a1cfc106fb9a04524059168?utm_source=gold_browser_extension
+* 替换元素与不可替换元素 > https://juejin.im/post/5a1b7319f265da43333e1d60?utm_source=gold_browser_extension
+
 
 ## HTML ##
 
@@ -24,6 +35,9 @@
 
 * H5页面优化 > http://www.jianshu.com/p/6a45715ab204
 * H5新特性 > http://hyuhan.com/2017/07/06/html5-of-interview/
+* H5游戏开发：指尖大冒险 > https://juejin.im/entry/5a1d594c51882535c471033c?utm_source=gold_browser_extension
+* 如何实现H5小游戏—植物大战僵尸 > https://juejin.im/post/5a16431f6fb9a0451f309975?utm_source=gold_browser_extension
+* 微信H5视频抓娃娃，没你想的那么难，看完你也会 > https://juejin.im/post/5a1e1ebaf265da432002ff71?utm_source=gold_browser_extension
 
 ## AutoTools ##
 
@@ -32,6 +46,9 @@
 * 前端涉及的所有知识体系 > https://segmentfault.com/a/1190000004070468?mType=Group
 * 常见HTML5功能检测 > http://caibaojian.com/detect-css3-support.html
 * webpack 官方中文文档 > https://doc.webpack-china.org/concepts/
+* NPM — JavaScript 的包管理器 > https://juejin.im/post/5a1c33396fb9a0450167af9b?utm_source=gold_browser_extension
+* JavaScript开发工具简明历史 > https://blog.fundebug.com/2017/11/29/history-of-javascript-tools/
+* gulp自动化构建工具学习分享 >https://juejin.im/post/5a1b88d26fb9a0451e3f8387?utm_source=gold_browser_extension
 
 ## Browser ##
 
@@ -79,6 +96,7 @@
 * matrix3D 在线生成 > https://peterned.home.xs4all.nl/matrices/
 * matrix2D 在线生成 > http://www.useragentman.com/matrix/
 * 前端体系大全 > http://www.javascript.fun
+
 
 
 ## 调试 ##
