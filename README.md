@@ -7,6 +7,7 @@
 * Web图片资源的加载与渲染时机 > https://segmentfault.com/a/1190000010032501
 * 前端基础进阶系列 > http://www.jianshu.com/p/cd3fee40ef59
 * 你还要我怎样的JS > https://juejin.im/entry/5a11770b51882531926e5075?utm_source=gold_browser_extension
+* V8 引擎的推测优化 > https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8
 
 
 ## JavaScript ##
