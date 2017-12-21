@@ -29,7 +29,7 @@
 * CSS浮动简介以及实现 > https://juejin.im/entry/5a1cfc106fb9a04524059168?utm_source=gold_browser_extension
 * 替换元素与不可替换元素 > https://juejin.im/post/5a1b7319f265da43333e1d60?utm_source=gold_browser_extension
 
-
+ 
 ## HTML ##
 
 ## H5 ##
@@ -50,6 +50,7 @@
 * NPM — JavaScript 的包管理器 > https://juejin.im/post/5a1c33396fb9a0450167af9b?utm_source=gold_browser_extension
 * JavaScript开发工具简明历史 > https://blog.fundebug.com/2017/11/29/history-of-javascript-tools/
 * gulp自动化构建工具学习分享 >https://juejin.im/post/5a1b88d26fb9a0451e3f8387?utm_source=gold_browser_extension
+* import、require、export、module.exports 混合使用详解 > https://juejin.im/post/5a2e5f0851882575d42f5609?utm_source=gold_browser_extension
 
 ## Browser ##
 
