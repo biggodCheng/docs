@@ -2,6 +2,9 @@
 
 > 整理出自己利用碎片时间看到的一些好的文章与博客链接，同时也用于存放我自己编写的一些文章。
 
+## 电子书 ##
+> gitbook https://www.gitbook.com/explore?lang=zh 
+
 ## 基础 ##
 
 * Web图片资源的加载与渲染时机 > https://segmentfault.com/a/1190000010032501
@@ -104,3 +107,8 @@
 
 ## 调试 ##
 浏览器调试技巧 > https://github.com/shenguotao2015/docs/tree/master/JavaScript/debugging
+
+
+## 资源分享 ##
+
+个人分享--web前端学习资源分享 > https://juejin.im/post/5a0c1956f265da430a501f51?utm_source=gold_browser_extension
